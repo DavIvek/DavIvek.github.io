@@ -1,7 +1,7 @@
 ---
 title: You don't have to migrate to find out if graph queries fit your data
 date: 2026-05-26 10:00:00 +0200
-categories: [Engineering]
+categories: [Blog Posts]
 tags: [graph databases, postgres, gql, memgql, federation]
 description: A 30-minute way to test it against the database you already run.
 ---
